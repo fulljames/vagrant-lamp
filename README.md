@@ -45,3 +45,8 @@ The web root is located in the project directory at `htdocs` and you can install
 And like any other vagrant file you have SSH access with
 
 	$ vagrant ssh
+
+This Fork
+---------
+* Switched to precise64 box
+* Added phpmyadmin receipe
